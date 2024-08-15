@@ -1,11 +1,16 @@
 _repo: Principles-of-literary-criticism_73827
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73827-h/images/cover.jpg
 creator:
   author:
     agent_name: Richards, I. A.
     gutenberg_agent_id: '57236'
     url: http://www.gutenberg.org/2009/agents/57236
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73827#Principles-of-literary-criticism
 gutenberg_issued: '2024-06-14'
 gutenberg_type: Text
 identifiers:
